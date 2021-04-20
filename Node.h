@@ -1,7 +1,3 @@
-//
-// Created by Dmitry on 26.01.2021.
-//
-
 #ifndef UNTITLED61_NODE_H
 #define UNTITLED61_NODE_H
 
